@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-muhammad.arsalan@teameda.com
+arsalanm@mtwsolutions.com
 
 <!---
 ArsalaTeamEDAQA/ArsalaTeamEDAQA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
